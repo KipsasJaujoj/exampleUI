@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sasaja</string>
+    <string name="pasisveikinimas">Sveiki atvykę!</string>
+    <string name="mygtukas_pradeti">Spauskite, kad pradėti apsipirkimą!</string>
+    <string name="info_1">Taip pat, kad pradėti, galite nuskenuoti pirmąją prekę</string>
+    <string name="prekiu_sarasas">Jūsų prekės:</string>
+    <string name="pagalba">Pagalba</string>
+    <string name="ieskoti_prekes">Ieškoti prekės</string>
+    <string name="info_2">Skenuokite prekę, arba suraskite prekių kataloge</string>
+    <string name="viso">Viso:</string>
+    <string name="paieskos_label">Ieškoti</string>
+    <string name="paieskos_hint">Ieškoti reikalingos prekės</string>
+    <string name="grizti">Grįžti</string>
+    <string name="baigti">Baigti apsipirkimą</string>
+    <string name="info_3">Sekite nurodymus kortelių skaitytuve</string>
+</resources>
